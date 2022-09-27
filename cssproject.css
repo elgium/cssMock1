@@ -1,0 +1,16 @@
+
+button {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    font-size: 2em;
+    border-radius: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+    padding-left: 20px 40px;
+
+}    
+ 
